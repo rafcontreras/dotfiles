@@ -10,3 +10,4 @@ source $ZSH/oh-my-zsh.sh
 
 # alias
 source ~/.zsh/config/alias.zsh
+
